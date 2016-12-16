@@ -70,7 +70,6 @@
 		}
 		resetButton.textContent = "New Colors";
 	}
-
 	resetButton.addEventListener("click", function(){
 		reset();
 	});
